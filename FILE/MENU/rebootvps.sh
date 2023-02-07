@@ -1,3 +1,0 @@
-z="
-";Hz='+"%T';kz='t.tx';Nz='rebo';Lz='oot/';Jz='rm -';Sz='"Ser';Yz=' reb';Bz='=$(d';Pz='xt';Fz='%Y")';hz='ot/l';bz=' $DA';Dz='+"%m';qz='r no';Vz='succ';Cz='ate ';gz=' /ro';Mz='log-';Gz='TIME';Rz=' -e ';az='d on';dz='t $T';oz='utdo';nz='n/sh';iz='og-r';Iz='")';Tz='ver ';Zz='oote';jz='eboo';cz='TE a';Kz='f /r';Uz='was ';pz='wn -';Az='DATE';lz='t';Wz='essf';Xz='ully';mz='/sbi';fz='" >>';rz='w';ez='IME.';Qz='echo';Ez='-%d-';Oz='ot.t';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$z$Gz$Bz$Cz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$z$mz$nz$oz$pz$qz$rz"
